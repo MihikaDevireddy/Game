@@ -1,0 +1,28 @@
+1. Characters
+
+Player
+
+2. Goals
+
+move the obstacles to lead the ball into the hole
+
+3. Rules
+
+Youy have thirty seconds to move the peices on the screen to make a pathway that leads the ball, which automatically starts moving after the time is done, to the hole.
+If you manage to do it you pass the level but if you fail to make a path the ball will fall f the screen and you fail.
+
+4. Balance
+
+If you need help you can click on the hint button and it will show you a picture of the answer.
+
+5. Adaptavness
+
+As the levels progress the diffucultty will increase
+
+7. Feedback
+
+You will be able to see a timer counting down and after you complete a level you will see a sighn
+
+8. Storytelling
+
+the ball is stuck and it needs to go to the hole. Help the ball get there.
